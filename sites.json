@@ -178,6 +178,16 @@
     },
 
     {
+        "name": "Anonymitynetwork",
+        "url": "https://anonymitynetwork.com/members/support.php",
+        "difficulty": "hard",
+        "notes": "You must login first.",
+        "domains": [
+            "anonymitynetwork.com"
+        ]
+    },
+
+    {
         "name": "AOL / Instant Messenger",
         "url": "http://cancel.aol.com",
         "difficulty": "easy",
